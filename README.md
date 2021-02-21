@@ -151,6 +151,9 @@ People helping to keep the show on the road:
 - Javier Arigita for his thermostat driver
 - Many more providing Tips, Wips, Pocs, PRs and Donations
 
+## server
+python3 -m http.server
+
 ## License
 
 This program is licensed under GPL-3.0
